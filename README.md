@@ -1,1 +1,2 @@
 # Bike-Sharing-Assignment
+You are required to model the demand for shared bikes with the available independent variables. The management will use it to comprehend how the demands differ with different features. To satisfy demand and customer expectations, they can adjust their business strategy accordingly. Moreover, the model can be used by management to understand the demand dynamics of a new market.
